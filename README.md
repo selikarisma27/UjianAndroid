@@ -1,7 +1,7 @@
 # APLIKASI ANDROID
-###### Aplikasi android sederhana untuk menampilkan inputan data kedalam listview edit oleh selikarisma
+###### Aplikasi android sederhana untuk menampilkan inputan data kedalam listview diedit oleh selikarisma
 
 ### Dibuat Oleh :
-##### kifty
+##### Seli Karisma Putri
 ### NIM
-##### G.111.21.1988
+##### G.131.21.0001
